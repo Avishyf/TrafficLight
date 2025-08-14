@@ -36,7 +36,7 @@ Output: Based on the automation rules, Home Assistant sends commands to the WLED
 # Hardware and Setup
 1. **Physical Assembly**
 
-This Project assumes you already have have Home Assistant server running, if you don't you can follow instructions here to install on your machine: *https://www.home-assistant.io/installation/*
+This Project assumes you already have have Home Assistant server running, if you don't you can follow instructions [here](https://www.home-assistant.io/installation/) to install on your machine
 
 use a hard casing for the Traffic light, presumably a 3D-Printed one (I used a concrete one I had laying around, like every other normal person), with each section containing a single WS2812B LED. The LEDs are daisy-chained and connected to the ESP8266 microcontroller.
 I used kitchen Wax paper and plastic bow lid i cut to diffuse the light from the led.
@@ -56,7 +56,7 @@ Button (Optional): A button is connected to D5 and GND to allow for manual state
 3. **Firmware**
 
    
-After connecting the wires, I flashed the WLED firmware onto the ESP8266 and connected it to my home network, you can find WLED repository here: https://github.com/WLED/WLED
+After connecting the wires, I flashed the WLED firmware onto the ESP8266 and connected it to my home network, you can find WLED repository [here](https://github.com/WLED/WLED) 
 
 The LEDs were divided into three segments—one for each color—and configured to respond to commands from Home Assistant.
 
