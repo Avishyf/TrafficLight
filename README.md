@@ -73,3 +73,5 @@ Automations: Four primary automations were created to handle different scenarios
 2. when door is open and the mark is triggerd -> turn Traffic light to red_Yellow
 3. when door is open and the mark is  not triggerd -> turn Traffic light to Green
 4. BONUS: I also added a 4th state for a night lamp so during the late night the traffic light is a low brightness solution for the sleepless who wonder to the tiolet during the dark hours.
+
+[Demonstration](https://github.com/avi7630/TrafficLight/blob/main/Traffic%20light.mp4)
