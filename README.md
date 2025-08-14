@@ -56,6 +56,7 @@ Button (Optional): A button is connected to D5 and GND to allow for manual state
 
    
 After connecting the wires, I flashed the WLED firmware onto the ESP8266 and connected it to my home network, you can find WLED repository here: https://github.com/WLED/WLED
+
 The LEDs were divided into three segments—one for each color—and configured to respond to commands from Home Assistant.
 
 5. **Home Assistant Configuration**
