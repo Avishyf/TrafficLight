@@ -77,7 +77,7 @@ Automations: Four primary automations were created to handle different scenarios
 ![Watch the video](https://github.com/Avishyf/TrafficLight/blob/main/demo.gif)
 
 
-![Demonstration](https://github.com/avi7630/TrafficLight/blob/main/IMG_20250814_173021.jpg)
-![Demonstration](https://github.com/avi7630/TrafficLight/blob/main/PXL_20250814_172236037.MV.jpg)
+![Demonstration](https://github.com/Avishyf/TrafficLight/blob/main/Image_1.jpg)
+![Demonstration](https://github.com/Avishyf/TrafficLight/blob/main/Image_2.jpg)
 
 
